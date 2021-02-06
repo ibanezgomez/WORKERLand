@@ -1,0 +1,16 @@
+{
+    "general": {
+        "name": "Workerland",
+        "version": "0.1"
+    },
+    "workers": {
+        "workerA": {
+            "desc": "I am the super worker A!",
+            "baseurl": "https://www.workerA.com/api/"
+        },
+        "workerB": {
+            "desc": "I am the super worker B!",
+            "baseurl": "https://www.workerB.com/api/"
+        }
+    }
+}
