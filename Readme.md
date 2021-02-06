@@ -2,9 +2,9 @@
 
 ## Sumary:
 
-WORKERLand is a sample program to understand Threading whit a Scheduler in Python. 
+WORKERLand is a sample program to understand Threading with a Scheduler in Python. 
 
-It simulates 2 threads in paralel and the result is handled by mail thread. There is another job to check the status of the jobs.
+It simulates 2 threads in parallel and the result is handled by mail thread. There is another job to check the status of the jobs.
 
 The workers do nothing.
 
