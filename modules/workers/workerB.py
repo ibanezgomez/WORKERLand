@@ -1,8 +1,8 @@
 from utils.logger import log
 import os, time, random
 
-name         = 'workerA'
-display_name = 'Worker A'
+name         = 'workerB'
+display_name = 'Worker B'
 
 class Worker:
     baseurl = "https://www.workerX.com/api/"
