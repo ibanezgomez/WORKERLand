@@ -8,13 +8,13 @@ It simulates 2 threads in paralel and the result is handled by mail thread. Ther
 
 The workers do nothing.
 
-Main:
-![Texto alternativo](media/main.png "").
+## Main:
+![Texto alternativo](media/main.png "")
 
-Checker:
-![Texto alternativo](media/checker.png "").
+## Checker:
+![Texto alternativo](media/checker.png "")
 
-Result:
-![Texto alternativo](media/result.png "").
+## Result:
+![Texto alternativo](media/result.png "")
 
 Inputs are welcome!
